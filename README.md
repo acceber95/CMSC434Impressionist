@@ -14,6 +14,7 @@ The impressionist screen has multi-touch implemented, so feel free to use more t
 
 # Sources
 Project spec: http://cmsc434-f16.wikispaces.com/Android+II+Impressionist
+
 Stack Overflow references (also commented in code):
 http://developer.android.com/reference/android/view/View.html#setDrawingCacheEnabled(boolean)
 http://developer.android.com/reference/android/view/View.html#getDrawingCache()
