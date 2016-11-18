@@ -9,6 +9,9 @@ An impressionist painting app that lets the user upload a photo and use various 
 5. You can clear the canvas whenever using the CLEAR button.
 6. Once you're satisfied with your painting, click DOWNLOAD IMAGES to add the image to your gallery.
 
+# Bonus Feature
+The impressionist screen has multi-touch implemented, so feel free to use more than one finger to draw.
+
 # Sources
 Project spec: http://cmsc434-f16.wikispaces.com/Android+II+Impressionist
 Stack Overflow references (also commented in code):
